@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🌱 I'm passionate about programming languagues.
+- 🔭 I’m currently working in Java, Kotlin and Python.
+- 📫 How to reach me: francisco.marinho.aguiar@gmail.com
+- ⚡ Fun fact: Books, Beer and Friends
+
 <!--
 **FranciscoAguiar/FranciscoAguiar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
